@@ -12,7 +12,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img alt="CSS" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="HTML" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Javascript" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
