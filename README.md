@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-canavate&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<br>
+
 <div align="center">
   <img alt="CSS" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="HTML" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
