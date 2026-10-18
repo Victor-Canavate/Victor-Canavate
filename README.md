@@ -1,7 +1,6 @@
 <h1 style="font-weight: bold">👋 Olá, bem-vindo ao meu GitHub!</h1>
 
-<p>👤 Eu me chamo Victor Cañavate Cunha, tenho 17 anos de idade e atualmente estou no segundo ano do Ensino Médio.</p>
-<p>📖 Estudando Javascript</p>
+<p>📖 Estudando Godot</p>
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-canavate&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
